@@ -11,6 +11,7 @@ Search & Filter: Advanced search and filtering options for users to find product
 Secure Payment: Integration with popular payment gateways for safe transactions.
 
 Technology Stack
+
 Frontend: HTML, CSS, JavaScript 
 
 Backend: C#, ASP.NET MVC
