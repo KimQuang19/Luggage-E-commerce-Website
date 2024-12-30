@@ -1,22 +1,48 @@
-An online platform for selling luggage, offering a wide range of products with features to enhance the shopping experience.
+# Luggage E-commerce Website Project
 
-Features
+>> An online platform for selling luggage, offering a wide range of products with features to enhance the shopping experience.
 
-User-friendly Interface: Modern and responsive design for seamless navigation.
+## Features
 
-Product Categories: Organize luggage by size, type, and price range.
+1. User-friendly Interface: Modern and responsive design for seamless navigation.
 
-Search & Filter: Advanced search and filtering options for users to find products quickly.
+2. Product Categories: Organize luggage by size, type, and price range.
 
-Secure Payment: Integration with popular payment gateways for safe transactions.
+3. Search & Filter: Advanced search and filtering options for users to find products quickly.
 
-Technology Stack
+4. Secure Payment: Integration with popular payment gateways for safe transactions.
 
-Frontend: HTML, CSS, JavaScript 
+5. Order Management: Track and manage orders easily through a user dashboard.
 
-Backend: C#, ASP.NET MVC
+6. Mobile Compatibility: Fully optimized for mobile devices.
 
-Database: SQL Server
+## Technology Stack
 
-Hosting: IIS
+1. Frontend: HTML, CSS, JavaScript 
+
+2. Backend: C#, ASP.NET MVC
+
+3. Database: SQL Server
+
+4. Hosting: IIS
+
+## Installation
+
+Clone the repository:
+
+git clone https://github.com/KimQuang19/luggage-ecommerce.git
+
+## Pictures
+![example](admin.jpg)
+![example](chitiet.jpg)
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+For questions or suggestions, please contact us:
+
+Email: quangh922@gmail.com
 
